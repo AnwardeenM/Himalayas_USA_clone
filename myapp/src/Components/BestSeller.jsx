@@ -55,7 +55,7 @@ function BestSeller() {
 						width: "70%",
 					}}
 				>
-					Best Sellers
+					Shop by Category
 				</div>
 
 				<div

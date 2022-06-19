@@ -56,7 +56,7 @@ function Shopbycatg() {
 						width: "70%",
 					}}
 				>
-					Shop By Category
+					Best Sellers
 				</div>
 
 				<div

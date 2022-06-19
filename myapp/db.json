@@ -1,0 +1,25 @@
+{
+    "products":[{
+        "id": 1,
+        "title": "Back to Balance Cleanse™",
+        "price": 29.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everydayTo keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.*",
+        "category": "bags",
+        "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-3_1024x1024.png?v=1591028195",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        },
+        "fulldescription":{
+            "suggestedUse":{ 
+                "PartOne": "Take one capsule in the morning after breakfast.",
+                "PartTwo": "Take one capsule in the evening after dinner."
+            },
+            "daysofSupply":{
+                    "sizeofcapusles":[30],
+                    "supply(months)":[1]
+            },
+            "shortNotes":"Produced in a cGMP Good Manufacturing Practices certified facility and rigorously tested for identity, strength and safety using well recognized techniques and highly sophisticated instruments.Himalaya capsules do not contain magnesium stearate, animal gelatin, or artificial tableting glues."
+        }
+      }]
+}

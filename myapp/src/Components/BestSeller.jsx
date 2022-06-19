@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import bestsell1 from "../Images/bestsell1.png";
 import bestsell2 from "../Images/bestsell2.png";
 import bestsell3 from "../Images/bestsell3.png";
+import "../Styles/BestSellers.style.css";
 function BestSeller() {
 	//    const [best,setBest] =useState([]);
 
@@ -65,16 +66,16 @@ function BestSeller() {
 						width: "85%",
 					}}
 				>
-					<div style={{ margin: "20px" }}>
+					<div className="cards">
 						<img
 							alt=""
-							style={{ height: "70%", width: "75%" }}
+							style={{ height: "70%", width: "75%"}}
 							src={bestsell1}
 						/>
 						<p>Supplements</p>
 						<p>See all Supplements</p>
 					</div>
-					<div style={{ margin: "20px" }}>
+					<div className="cards">
 						<img
 							alt=""
 							style={{ height: "70%", width: "75%" }}
@@ -83,7 +84,7 @@ function BestSeller() {
 						<p>Oral Care</p>
 						<p>See all Oral Care</p>
 					</div>
-					<div style={{ margin: "20px" }}>
+					<div className="cards">
 						<img
 							alt=""
 							style={{ height: "70%", width: "75%" }}

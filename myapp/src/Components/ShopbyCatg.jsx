@@ -74,6 +74,7 @@ function Shopbycatg() {
 							justifyContent: "center",
 							alignItems: "center",
 							margin: "15px",
+							boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px"
 						}}
 					>
 						<img
@@ -91,6 +92,7 @@ function Shopbycatg() {
 							justifyContent: "center",
 							alignItems: "center",
 							margin: "15px",
+							boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px"
 						}}
 					>
 						<img
@@ -110,6 +112,7 @@ function Shopbycatg() {
 							justifyContent: "center",
 							alignItems: "center",
 							margin: "15px",
+							boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px"
 						}}
 					>
 						<img
@@ -127,6 +130,7 @@ function Shopbycatg() {
 							justifyContent: "center",
 							alignItems: "center",
 							margin: "15px",
+							boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px"
 						}}
 					>
 						<img

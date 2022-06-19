@@ -2,6 +2,7 @@
     margin:20px;
     text-align: center;
     box-shadow:rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 15px;
 }
 .cards:hover{
     -ms-transform: scale(1.1); /* IE 9 */

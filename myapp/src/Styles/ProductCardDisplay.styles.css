@@ -3,6 +3,7 @@
 	border: none;
 	padding: 10px 40px;
 	color: #fff;
+	border-radius: 5px;
 }
 .btnPrice:hover {
 	background: #66765f;
@@ -19,4 +20,12 @@
 }
 .categoryLeftSec > li {
 	list-style: none;
+}
+.productCards{
+	 	margin: 10px;
+	  text-align:center;
+	  box-shadow:rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	  padding:10px;
+	  /* border: 1px solid red; */
+	  border-radius: 8px;
 }

@@ -73,8 +73,10 @@ function Shopbycatg() {
 							flexDirection: "column",
 							justifyContent: "center",
 							alignItems: "center",
-							margin: "15px",
-							boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px"
+							margin: "10px",
+							boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
+							borderRadius:"20px",
+							padding:"5px"
 						}}
 					>
 						<img
@@ -91,8 +93,10 @@ function Shopbycatg() {
 							flexDirection: "column",
 							justifyContent: "center",
 							alignItems: "center",
-							margin: "15px",
-							boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px"
+							margin: "10px",
+							boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
+							borderRadius:"20px",
+							padding:"5px"
 						}}
 					>
 						<img
@@ -111,8 +115,10 @@ function Shopbycatg() {
 							flexDirection: "column",
 							justifyContent: "center",
 							alignItems: "center",
-							margin: "15px",
-							boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px"
+							margin: "10px",
+							boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
+							borderRadius:"20px",
+							padding:"5px"
 						}}
 					>
 						<img
@@ -129,8 +135,10 @@ function Shopbycatg() {
 							flexDirection: "column",
 							justifyContent: "center",
 							alignItems: "center",
-							margin: "15px",
-							boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px"
+							margin: "10px",
+							boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
+							borderRadius:"20px",
+							padding:"5px"
 						}}
 					>
 						<img

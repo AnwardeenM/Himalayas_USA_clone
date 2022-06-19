@@ -93,6 +93,7 @@ export default function SupplementsCategory() {
 				<button
 					style={{
 						backgroundColor: sortName === 1 ? "#66765F" : "#A3B49B",
+						border:"none",borderRadius:"5px"
 					}}
 					onClick={() => {
 						setSortName(1);
@@ -104,6 +105,7 @@ export default function SupplementsCategory() {
 				<button
 					style={{
 						backgroundColor: sortName === 2 ? "#66765F" : "#A3B49B",
+						border:"none",borderRadius:"5px"
 					}}
 					onClick={() => {
 						setSortName(2);
@@ -115,6 +117,7 @@ export default function SupplementsCategory() {
 				<button
 					style={{
 						backgroundColor: sortAsc === 1 ? "#66765F" : "#A3B49B",
+						border:"none",borderRadius:"5px"
 					}}
 					onClick={() => {
 						setSortAsc(1);
@@ -126,6 +129,7 @@ export default function SupplementsCategory() {
 				<button
 					style={{
 						backgroundColor: sortAsc === 2 ? "#66765F" : "#A3B49B",
+						border:"none",borderRadius:"5px"
 					}}
 					onClick={() => {
 						setSortAsc(2);

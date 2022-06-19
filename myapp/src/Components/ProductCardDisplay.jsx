@@ -9,7 +9,7 @@ export default function ProductCardDisplay({ product }) {
 	const { updateCart } = useContext(CartContext);
 
 	return (
-		<div style={{ margin: "10px", textAlign: "center",boxShadow: "rgba(0, 0, 0, 0.35) 0px 5px 15px",padding:"10px"}}>
+		<div className="productCards">
 			<Link to={`/product/${id}`}>
 				<img width="198" height="198" alt="product" src={image} />
 				<div className="productTileCard">{name}</div>

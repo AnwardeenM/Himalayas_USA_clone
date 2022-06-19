@@ -78,7 +78,7 @@ export default function ProductView() {
 			</div>
 			<div>
 				<div className="pageHeading">{product.name}</div>
-				<div className="priceProduct">{product.price}</div>
+				<div className="priceProduct">${product.price}</div>
 				<div>Size: 60 Capsules</div>
 				<div>
 					{" "}
@@ -112,8 +112,8 @@ export default function ProductView() {
 				</div>
 				<div>
 					{" "}
-					<button className="btnAmazon">
-						Buy with amazon pay
+					<button className="btnGoogle">
+						Buy with Google pay
 					</button>{" "}
 				</div>
 				<div>Description</div>

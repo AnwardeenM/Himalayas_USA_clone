@@ -72,3 +72,14 @@
 	width: 12.361vw;
 	height: 3.628vw;
 }
+.btnPaymentYellow {
+	background: rgba(255, 230, 45, 0.874);
+	font-size: 12px;
+	line-height: 18px;
+	color: #000000;
+	border-radius: 4px;
+	padding: 1.389vws;
+	margin: 0.694vw;
+	width: 12.361vw;
+	height: 3.628vw;
+}

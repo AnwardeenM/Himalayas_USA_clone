@@ -1,0 +1,14 @@
+{"userId" : "612505aa23c0041a0ca340c3",
+"details": [{ "orderId":"405-7451530-9424353","transactionType": "Credit", "vechicalName": "TATA ACE", "driverName": "Saurabh", "status": "open", "amount": "943", "date": "05 / 06 / 2021" },
+{"orderId":"405-3457491-6094501", "transactionType": "Credit", "vechicalName": "TATA ACE", "driverName": "Raj", "status": "accepted", "amount": "764", "date": "23 / 04 / 2021" },
+{ "orderId":"405-3327444-2131503","transactionType": "Credit", "vechicalName": "8FT PICKUP", "driverName": "Charles", "status": "completed", "amount": "2046", "date": "26 / 01 / 2021" },
+{ "orderId":"405-3181978-4558710","transactionType": "Debit", "vechicalName": "8FT PICKUP", "driverName": "Charles", "status": "live", "amount": "490", "date": "05 / 07 / 2021" },
+{ "orderId":"405-6414251-4169918","transactionType": "Debit", "vechicalName": "TATA ACE", "driverName": "Inder", "status": "completed", "amount": "1035", "date": "18 / 06 / 2021" },
+{ "orderId":"405-4227636-9693920","transactionType": "Debit", "vechicalName": "TATA ACE", "driverName": "Inder", "status": "open", "amount": "2086", "date": "24 / 02 / 2021" },
+{ "orderId":"405-5341202-0449117","transactionType": "Credit", "vechicalName": "3 Wheeler", "driverName": "Saurabh", "status": "completed", "amount": "446", "date": "20 / 05 / 2021" },
+{ "orderId":"405-6792759-7022714","transactionType": "Debit", "vechicalName": "TATA ACE", "driverName": "Charles", "status": "completed", "amount": "789", "date": "13 / 01 / 2021" },
+{ "orderId":"405-5884300-2954762","transactionType": "Credit", "vechicalName": "3 Wheeler", "driverName": "Saurabh", "status": "accepted", "amount": "876", "date": "22 / 03 / 2021" },
+{ "orderId":"405-7905087-0951526","transactionType": "Debit", "vechicalName": "TATA ACE", "driverName": "Inder", "status": "open", "amount": "1079", "date": "26 / 06 / 2021" },
+{ "orderId":"405-8312872-4451566","transactionType": "Credit", "vechicalName": "3 Wheeler", "driverName": "Saurabh", "status": "live", "amount": "8068", "date": "28 / 02 / 2021" },
+{ "orderId":"405-6471530-4841573","transactionType": "Credit","vechicalName": "TATA ACE","driverName": "Raj","status": "completed","amount": "7304","date": "27 / 02 / 2021"}]
+}

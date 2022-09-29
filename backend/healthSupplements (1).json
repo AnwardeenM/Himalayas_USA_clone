@@ -1,0 +1,287 @@
+
+
+[
+  
+  {
+    "id": "1",
+    "name": "Back to Balance Cleanse",
+    "price": 29.95,
+    "type": "Blood Sugar",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/back-to-balance-cleanse-297598_1024x1024.png?v=1660858351",
+    "description": [ "Himalaya MenstriCare supports and comforts you every month during your period, with wise, time-honored ingredients that support emotional and hormone balance and reduce your cramping, fatigue and discomfort.",
+      "MenstriCare addresses the pain associated with the menstrual cycle and also helps relieve the symptoms of PMS.",
+      "The Shatavari in MenstriCare is famous throughout history for providing relief and support for women.",
+      "Cyperus is a nut grass used to support the nerves and muscles that line the urinary tract.",
+      "And soothing, cooling Aloe Vera is a favorite traditional plant used all over the world for comfort and relief."
+    ]
+  },
+
+  {
+    "id": "2",
+    "name": "Bosswelia",
+    "price": 14.95,
+    "type": "Blood Sugar",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/boswellia-829056_1024x.png?v=1660858338",
+    "description": [ "The crystalized resin from the Indian Frankincense tree known as Boswellia is famous throughout herbal history for supporting muscle relaxation and aiding in joint integrity.",
+      "Himalaya Boswellia provides plant-based support of normal joint function to promote flexibility, movement and range of motion.",
+      "Himalaya doesn't just give you a simple crushed Boswellia powder in a capsule, but uses a powdered, sustainably-harvested oleo-gum-resin extract from the Boswellia tree to support exercise-induced inflammation and the normal production of joint fluids."
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Chyavanprash",
+    "price": 13.95,
+    "type": "Blood Sugar",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/chyavanprash-105275_1024x.png?v=1660858328",
+    "description": [ "For daily rejuvenation and energy, Chyavanprash has been used for centuries as an Ayurvedic superfood for strength, vitality, immunity and good digestion.",
+      "Himalaya Chyavanprash combines the same rich ingredients used in Chyavanprash jams and pastes and puts them in an easy-to-take, convenient once-a-day vegetarian capsule.",
+      "Chyavanprash is a famous Indian mixture of over 40 different ingredients, including Cinnamon, Cardamom, Honey and Amla, and is one of the oldest recorded herbal recipes on earth for wellness and rejuvenation."
+    ]
+  },
+  {
+    "id": "4",
+    "name": "MindCare",
+    "price": 22.95,
+    "type": "Brain & Cognitive",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/mindcare-700685_1024x.png?v=1660858331",
+    "description": [ "In our fast-paced world, focus and forgetfulness are a challenge for everybody.",
+      "Himalaya MindCare supports memory, focus and logic, helps with occasional absentmindedness and the occasional lack of concentration.",
+      "The Bacopa in MindCare supports mental alertness and clarity of thought.",
+      "Gotu Kola calms occasional restlessness and supports normal cognitive effects like learning and concentration, and Ashwagandha has been used throughout history to support physical and mental energy to provide support for busy people and stressed-out minds."
+    ]
+  },
+  {
+    "id": "5",
+    "name": "ComfortCleanse",
+    "price": 29.95,
+    "type": "Digestion",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/comfortcleanse-636861_1024x.png?v=1660858348",
+    "description": [ "If you're seeking gentle, reliable colon cleansing and relief from occasional constipation, and you don’t want the purging and cramping of other herbs you’ve tried.",
+      " Himalaya’s ComfortCleanse with no Senna and no Cascara is safe, effective, and provides non-habit-forming support.",
+      "The Licorice in ComfortCleanse supports normal gastrointestinal function by soothing and coating the digestive canal, Ginger provides support for occasional upset stomach, and Chebulic myrobalan, part of Triphala, is famously known throughout history for its digestive support."
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Organic Garlic",
+    "price": 45.95,
+    "type": "Digestion",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-garlic-712919_1024x.png?v=1660858358",
+    "description": [ "All around the world in many different cultures, countries, and traditional systems of healthcare, Garlic has been used consistently for heart health, cardiovascular and immune support.",
+      "For wellness of the heart, Garlic remains one of the whole world’s favorite gifts from nature.",
+      "Himalaya Organic Garlic uses a combination of organic Garlic aerial parts powder and organic Garlic bulb extract, instead of just the simple crushed Garlic you may find on its own in other supplements, providing you with daily cardiac support and helping you maintain cholesterol levels already within normal range."
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Organic Licorice",
+    "price": 14.95,
+    "type": "Digestion",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-licorice-304556_1024x1024.png?v=1660813420",
+    "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
+      "For digestive relief and support, Himalaya Organic Licorice is the convenient 1-caplet-a-day answer for soothing occasional upset stomach.Himalaya Organic Licorice is not a de-glycyrrhizinated (or DGL) licorice in which the glycyrrhizin has been removed from the finished product.",
+      "Our certified USDA organic Licorice delivers a full-spectrum extract in which all of the plant compounds found naturally in the plant are available in the caplet."
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Organic Ashwagandha",
+    "price": 14.95,
+    "type": "Energy & Vitality",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-ashwagandha-119670_1024x.png?v=1660858343",
+    "description": [ "Ashwagandha has been used for centuries for stress and energy.",
+      "It’s one of history’s most famous balancing herbs.",
+      "In a fast-paced world, Himalaya Organic Ashwagandha keeps you going on busy days, and relaxes you during nights of occasional sleeplessness.",
+      "Himalaya Organic Ashwagandha is not just a simple crushed Ashwagandha powder, but an actual clinically-studied extract that provides stress relief by supporting your adrenals and balancing cortisol, so you can help sustain your daily energy levels without caffeine and without feeling jittery."
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Organic Amla",
+    "price": 19.95,
+    "type": "Energy & Vitality",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-amla-944817_1024x.png?v=1660858354",
+    "description": [ "As an antioxidant for immune support, India’s famous Amla fruit, also known as Amalaki or Indian Gooseberry, has been used for thousands of years for reinforcing immune cell defense and providing adaptogenic and restorative action.",
+      "It’s considered to be a cornerstone of vitality, strength, energy and whole-body wellness.",
+      "Amla is one of the three key fruits found in Triphala, for detox, cleansing and good digestion. Himalaya Organic Amla uses a combination of organic Amla stem powder and organic Amla fruit extract, instead of just the simple crushed Amla you may find on its own in other supplements."
+    ]
+  },
+  {
+    "id": "10",
+    "name": "DermaCare",
+    "price": 23.95,
+    "type": "Hair,Skin & Nails",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/dermacare-422043_1024x.png?v=1660858352",
+    "description": [ "Your inner health is reflected in your skin.",
+      "Himalaya DermaCare supports beautiful skin by promoting cellular health and immune system wellness to address redness, sensitive skin, and good detox and digestion, which helps address occasional acne, bringing beauty from the inside-out.",
+      "The Neem in DermaCare is one of history’s most famous cleansing herbs for skin support. Turmeric supports cellular health to leave skin fresh-looking and revitalized. And Amla, part of Triphala, is one of history’s digestive superstars, promoting healthy-looking skin through detox and good digestion."
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Guggul",
+    "price": 16.95,
+    "type": "Heart & Cardio",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/guggul-989338_1024x.png?v=1660858332",
+    "description": [ "Not only is Guggul famous throughout history for toning digestion and supporting the liver and immune system, this dried resin extract from the Mukul Myrrh tree, with its well-known guggulsterones.",
+      "It also supports your cholesterol levels, with particular attention to HDL and LDL cholesterol already within the normal range.",
+      "Himalaya Guggul uses a combination of Guggul oleo gum resin extract, Guggul stem powder and Guggul supercritical CO2 oleo gum resin extract, instead of just the simple crushed Guggul you may find on its own in other supplements"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Organic Arjuna",
+    "price": 19.95,
+    "type": "Heart & Cardio",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-arjuna-622889_1024x.png?v=1660813420",
+    "description": [ "The famous Arjuna tree from India has long been known for its cardiovascular support",
+      "In fact, in Ayurvedic herbal tradition, no other adaptogen is more celebrated for the heart.",
+      "Himalaya Organic Arjuna provides daily balance for your heart, your center of emotional and physical wellness.To help support blood pressure already within normal range, Himalaya Organic Arjuna uses a combination of organic Arjuna bark powder, organic Arjuna bark extract, and organic Arjuna supercritical C02 extract, instead of just the simple crushed Arjuna you may find on its own in other supplements"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Holy Basil",
+    "price": 13.95,
+    "type": "Immune Boost",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/holy-basil-740180_1024x.png?v=1660858325",
+    "description": [ "In Ayurveda, Holy Basil is considered sacred and special, and is often found in temple gardens to promote peaceful thoughts.",
+      "It's also famous for cleansing respiratory support, making it a gentle companion for relaxing, deep breaths and peaceful feelings.",
+      "For tranquility and relaxation, Himalaya Holy Basil provides adrenal support and helps with stress relief.Himalaya Holy Basil uses a combination of Holy Basil leaf powder, Holy Basil leaf extract and Holy Basil supercritical C02 leaf extract instead of just the simple crushed Holy Basil you may find on its own in other supplements."
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Organic Neem",
+    "price": 17.95,
+    "type": "Immune Boost",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-neem-420131_1024x.png?v=1660813427",
+    "description": [ "In India, people have turned to Neem for centuries as a trusted internal detox herb to help clear up mild acne and to promote healthy hair, healthy skin and healthy nails.",
+      "Himalaya Organic Neem is an outstanding skin purifier and detox cleanser for addressing skin health and minor skin irritations.",
+      "Himalaya Organic Neem uses a combination of organic Neem stem powder, organic Neem leaf extract and organic Neem supercritical C02 extract instead of just the simple crushed Neem you may find on its own in other supplements, making it an excellent choice for mild acne and skin blemishes."
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Organic Triphala",
+    "price": 11.95,
+    "type": "Immune Boost",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-neem-420131_1024x.png?v=1660813427",
+    "description": [ "The word Triphala literally translates to “three fruits;” Amla, otherwise known as Amalaki, Chebulic myrobalan, also known as Haritaki, and Belleric myrobalan, traditionally known as Vibhitaki. These three fruits have been combined for generations for detox, digestion and gentle, supportive colon cleansing.*",
+    "Himalaya Organic Triphala helps with occasional bloating, helps you cleanse and provides digestive regularity*",
+      "Triphala provides a gentle colon cleanse and detox action*",
+      "Himalaya Organic Triphala tones your intestines to remove stagnant waste"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Curcumin Complete",
+    "price": 19.99,
+    "type": "Joint&Mobility",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/curcumin-complete-187497_1024x1024.png?v=1660858326",
+    "description": [ "The word Triphala literally translates to “three fruits;” Amla, otherwise known as Amalaki, Chebulic myrobalan, also known as Haritaki, and Belleric myrobalan, traditionally known as Vibhitaki. These three fruits have been combined for generations for detox, digestion and gentle, supportive colon cleansing.*",
+    "Himalaya Organic Triphala helps with occasional bloating, helps you cleanse and provides digestive regularity*",
+      "Triphala provides a gentle colon cleanse and detox action*",
+      "Himalaya Organic Triphala tones your intestines to remove stagnant waste"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "JointCare",
+    "price": 32.95,
+    "type": "Joint&Mobility",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/jointcare-123162_1024x.png?v=1660858349",
+    "description": [ "In India, people have turned to Neem for centuries as a trusted internal detox herb to help clear up mild acne and to promote healthy hair, healthy skin and healthy nails.",
+      "Himalaya Organic Neem is an outstanding skzin purifier and detox cleanser for addressing skin health and minor skin irritations.",
+      "Himalaya Organic Neem uses a combination of organic Neem stem powder, organic Neem leaf extract and organic Neem supercritical C02 extract instead of just the simple crushed Neem you may find on its own in other supplements, making it an excellent choice for mild acne and skin blemishes."
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Organic Psyllium Husk",
+    "price": 24.95,
+    "type": "Liver and Cleanse",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-psyllium-husk-powder-626566_1024x.jpg?v=1660858325",
+    "description": [ "As an antioxidant for immune support, India’s famous Amla fruit, also known as Amalaki or Indian Gooseberry, has been used for thousands of years for reinforcing immune cell defense and providing adaptogenic and restorative action.",
+      "It’s considered to be a cornerstone of vitality, strength, energy and whole-body wellness.",
+      "Amla is one of the three key fruits found in Triphala, for detox."
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Organic Tribulus",
+    "price": 26.95,
+    "type": "Liver and Cleanse",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-tribulus-410173_1024x.png?v=1660858332",
+    "description": [ "As an antioxidant for immune support, India’s famous Amla fruit, also known as Amalaki or Indian Gooseberry, has been used for thousands of years for reinforcing immune cell defense and providing adaptogenic and restorative action.",
+      "It’s considered to be a cornerstone of vitality, strength, energy and whole-body wellness.",
+      "Amla is one of the three key fruits found in Triphala, for detox."
+    ]
+  },
+  {
+    "id": "20",
+    "name": "RespiCare",
+    "price": 27.95,
+    "type": "Respiration",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/respicare-901113_1024x.png?v=1660858318",
+    "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
+      "For digestive relief and support, Himalaya Organic Licorice is the convenient 1-caplet-a-day answer for soothing occasional upset stomach.Himalaya Organic Licorice is not a de-glycyrrhizinated (or DGL) licorice in which the glycyrrhizin has been removed from the finished product.",
+      "Our certified USDA organic Licorice delivers a full-spectrum extract in which all of the plant compounds found naturally in the plant are available in the caplet."
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Organic Ashwagandha Root Powder",
+    "price": 16.95,
+    "type": "Sleep",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-ashwagandha-root-powder-568653_1024x.png?v=1660858340",
+    "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
+      "For digestive relief and support, Himalaya Organic Licorice is the convenient 1-caplet-a-day answer for soothing occasional upset stomach.Himalaya Organic Licorice is not a de-glycyrrhizinated (or DGL) licorice in which the glycyrrhizin has been removed from the finished product.",
+      "Our certified USDA organic Licorice delivers a full-spectrum extract in which all of the plant compounds found naturally in the plant are available in the caplet."
+    ]
+  },
+  {
+    "id": "22",
+    "name": "ProstaCare",
+    "price": 29.95,
+    "type": "Men's Wellness",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/prostacare-580028_1024x.png?v=1660858347",
+    "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
+      "For digestive relief and support, Himalaya Organic Licorice is the convenient 1-caplet-a-day answer for soothing occasional upset stomach.Himalaya Organic Licorice is not a de-glycyrrhizinated (or DGL) licorice in which the glycyrrhizin has been removed from the finished product.",
+      "Our certified USDA organic Licorice delivers a full-spectrum extract in which all of the plant compounds found naturally in the plant are available in the caplet."
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Hello Calm Mind",
+    "price": 23.99,
+    "type": "Stress & Mood",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/hello-calm-mind-673401_1024x.png?v=1660858335",
+    "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
+      "For digestive relief and support, Himalaya Organic Licorice is the convenient 1-caplet-a-day answer for soothing occasional upset stomach.Himalaya Organic Licorice is not a de-glycyrrhizinated (or DGL) licorice in which the glycyrrhizin has been removed from the finished product.",
+      "Our certified USDA organic Licorice delivers a full-spectrum extract in which all of the plant compounds found naturally in the plant are available in the caplet."
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Hello Peace",
+    "price": 23.99,
+    "type": "Stress & Mood",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/hello-peace-589514_1024x.jpg?v=1660858323",
+    "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
+      "For digestive relief and support, Himalaya Organic Licorice is the convenient 1-caplet-a-day answer for soothing occasional upset stomach.Himalaya Organic Licorice is not a de-glycyrrhizinated (or DGL) licorice in which the glycyrrhizin has been removed from the finished product.",
+      "Our certified USDA organic Licorice delivers a full-spectrum extract in which all of the plant compounds found naturally in the plant are available in the caplet."
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Organic Mucuna",
+    "price": 19.95,
+    "type": "Stress & Mood",
+    "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-mucuna-267584_1024x.png?v=1660813418",
+    "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
+      "For digestive relief and support, Himalaya Organic Licorice is the convenient 1-caplet-a-day answer for soothing occasional upset stomach.Himalaya Organic Licorice is not a de-glycyrrhizinated (or DGL) licorice in which the glycyrrhizin has been removed from the finished product.",
+      "Our certified USDA organic Licorice delivers a full-spectrum extract in which all of the plant compounds found naturally in the plant are available in the caplet."
+    ]
+  }
+]

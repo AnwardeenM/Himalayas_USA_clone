@@ -1,0 +1,20 @@
+
+
+PATCH http://localhost:2345/user/update/61272f4cf2ae690ad4cc797a
+content-type: application/json
+
+{"fullName":"newName","city":"changes"}
+###
+
+POST http://localhost:2345/user/auth/login
+content-type: application/json
+
+{"email":"df@32","password":"1234"}
+
+####
+GET http://localhost:2345/user/df@32
+###
+POST http://localhost:2345/user/signup
+content-type: application/json
+
+{"email":"df@32","password":"1234", "fullName": "dhee"}
